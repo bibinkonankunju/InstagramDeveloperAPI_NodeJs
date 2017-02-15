@@ -1,0 +1,29 @@
+{
+  "name": "instagramdeveloperapi_nodejs",
+  "version": "1.0.0",
+  "description": "Sample application for connecting to the Instagram API and grabbing data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibinkonankunju/InstagramDeveloperAPI_NodeJs.git"
+  },
+  "keywords": [
+    "instagram",
+    "api",
+    "nodejs"
+  ],
+  "author": "BIBIN K ONANKUNJU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bibinkonankunju/InstagramDeveloperAPI_NodeJs/issues"
+  },
+  "homepage": "https://github.com/bibinkonankunju/InstagramDeveloperAPI_NodeJs#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "instagram-node": "^0.5.8"
+  }
+}
